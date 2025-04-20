@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:toonbox/widgets/button.dart';
-import 'package:toonbox/widgets/card.dart';
+import 'widgets/button.dart';
+import 'widgets/card.dart';
 
-void 111main() {
+void main() {
   runApp(App());
 }
 
